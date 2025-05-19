@@ -91,3 +91,9 @@ curl -X POST http://localhost:5000/predict \
 Carlos Condor  
 Maestría en Inteligencia Artificial  
 Universidad Técnica Particular de Loja
+
+Adjuntos:
+![image](https://github.com/user-attachments/assets/8e3d6132-192b-47ff-a20b-98bf67e8eb38)
+![image](https://github.com/user-attachments/assets/af1b6ac2-4f78-4874-845e-12ad91082c8e)
+![image](https://github.com/user-attachments/assets/95c614ed-5e9b-4883-b4dd-b4415bac8590)
+![image](https://github.com/user-attachments/assets/629a5a95-f66e-4a37-85bb-d1af83e43f66)
